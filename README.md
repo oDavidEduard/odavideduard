@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack e Data Analyst`**
 
-Olá! Me chamo David Eduard da Silva e sou um jovem natural de Natal, Rio Grande do Norte. Atualmente, estou cursando Banco de Dados na Universidade Estácio de Sá. Desde muito novo sempre fui apaixonado por tecnologia e foi na área de Tecnologia da Informação que encontrei minha paixão de vida.
+Olá! Me chamo David Eduard da Silva e sou um jovem natural de Natal, Rio Grande do Norte. Atualmente, estou cursando Sistemas de Informação na Universidade Potiguar. Desde muito novo sempre fui apaixonado por tecnologia e foi na área de Tecnologia da Informação que encontrei minha paixão de vida.
 
 ### 🤖 Linguagens e Tecnologias
 
