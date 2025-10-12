@@ -113,7 +113,7 @@ Olá! Me chamo David Eduard da Silva e sou um jovem natural de Natal, Rio Grande
 
 ### 🚀 Projetos em Destaque
 
-- [🔗 Desafio Tech SeuBone](https://github.com/oDavidEduard/desafio-tech-frontend)  
+- [🔗 Desafio Tech SeuBone](https://github.com/oDavidEduard/desafio-tech)  
   Interface com React + Styled Components + API.
 
 
