@@ -111,10 +111,10 @@ Olá! Me chamo David Eduard da Silva e sou um jovem natural de Natal, Rio Grande
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oDavidEduard&layout=compact&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oDavidEduard&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oDavidEduard&layout=compact&theme=dark" width="48%" />
-</p>
+### 🚀 Projetos em Destaque
+
+- [🔗 Desafio Tech SeuBone](https://github.com/oDavidEduard/desafio-tech-frontend)  
+  Interface com React + Styled Components + API.
 
 
       
