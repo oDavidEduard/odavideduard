@@ -107,6 +107,9 @@ Olá! Me chamo David Eduard da Silva e sou um jovem natural de Natal, Rio Grande
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oDavidEduard&layout=compact)
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oDavidEduard&layout=compact&theme=dark)
+
 
       
