@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack e Data Analyst`**
 
-Olá! Me chamo David Eduard e sou um jovem natural de Natal, Rio Grande do Norte. Atualmente, estou cursando Sistemas de Informação na Universidade Potiguar. Desde muito novo sempre fui apaixonado por tecnologia e foi na área de Tecnologia da Informação que encontrei minha paixão de vida.
+Olá! Me chamo David Eduard e sou um jovem natural de Natal, Rio Grande do Norte. Atualmente, estou cursando Sistemas de Informação na Universidade Potiguar.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -113,10 +113,11 @@ Olá! Me chamo David Eduard e sou um jovem natural de Natal, Rio Grande do Norte
 
 ### 🚀 Projetos em Destaque
 
-- [🔗 Desafio Tech SeuBone](https://github.com/oDavidEduard/desafio-tech)  
+- [🔗 Desafio Tech](https://github.com/oDavidEduard/desafio-tech)  
   Interface com React + Styled Components + API.
 - [🔗 DinDin App](https://github.com/oDavidEduard/dindin-app)  
   App de gerenciamento de gastos. React Native + API.
-
+- [🔗 Flash Charge App](https://github.com/oDavidEduard/flash-charge-app)  
+  App mobile de localizador de carregadores para carro eletrico. React Native + API. (em desenvolvimento)
 
       
