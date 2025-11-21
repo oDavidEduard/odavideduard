@@ -116,7 +116,7 @@ Olá! Me chamo David Eduard e sou um jovem natural de Natal, Rio Grande do Norte
 - [🔗 Desafio Tech](https://github.com/oDavidEduard/desafio-tech)  
   Interface com React + Styled Components + API.
 - [🔗 DinDin App](https://github.com/oDavidEduard/dindin-app)  
-  App de gerenciamento de gastos. React Native + API.
+  App gerenciador financeiro com IA. React Native + Node.js + Python.
 - [🔗 Flash Charge App](https://github.com/oDavidEduard/flash-charge-app)  
   App mobile localizador de carregadores para carro eletrico. React Native + API. (em desenvolvimento)
 
